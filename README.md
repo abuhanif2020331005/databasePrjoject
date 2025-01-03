@@ -13,10 +13,16 @@ Global University Connections: Map the relationships between local and foreign u
 Repository Contents
 This repository includes:
 
+
+
 SQL Scripts: Scripts for creating and populating the database.
 Schema Design: Well-structured tables to manage user, university, and additional data.
 Requirements
 To use the scripts in this repository, you need:
+
+
+
+
 
 MySQL Server 8.0 or higher.
 A MySQL-compatible client (e.g., MySQL Workbench, phpMyAdmin).
