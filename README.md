@@ -1,5 +1,5 @@
 
-Here's a simple and informative README file for your GitHub repository:
+
 
 Alumni Pathways - MySQL Database
 Project Overview
